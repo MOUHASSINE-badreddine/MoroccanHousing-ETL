@@ -1,0 +1,7 @@
+scrapy
+scrapy_user_agents
+botocore
+boto3
+itemadapter
+pymongo
+pymongo[srv]
